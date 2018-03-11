@@ -1,4 +1,4 @@
-# Calculo de IMC para Android 
+# Cálculo de IMC para Android 
 App para cálculo de IMC
 
 Um app com interface simples e objetiva, facilitando o uso do mesmo!
